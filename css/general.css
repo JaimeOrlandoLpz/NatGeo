@@ -1,0 +1,62 @@
+body{
+    background-color: #a799b7;
+    font-family: "KoHo";
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #000000;
+    font-size: 1.1em;
+}
+
+#logo{
+    margin-top: 2.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+
+.top-content{
+    margin-top: 5%;
+    text-align: center;
+}
+
+
+#bottom-container{
+    text-align: center;
+    background-color: #fdca40;
+    padding: 15px 0 10px;
+  }
+
+.footer-link{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .last-video-section{
+      margin-bottom: 5%;
+  }
+
+  #mainpage-main{
+      margin-top: 20px;
+      font-size: x-large;
+      text-align: center;
+  }
+
+  #network-channels{
+      padding: 5rem;
+      text-align: center;
+  }
+
+  .network-img{
+    width: 20rem;
+    height: 12rem;
+
+  }
