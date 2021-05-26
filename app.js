@@ -8,7 +8,7 @@ const app = express();
 app.use(express.static("public"));
 
 app.listen(process.env.PORT || 3000, function(){
-    console.log("Server Running");
+    console.log("Server Running on Port 3000");
   });
 
   app.get("/", function(req, res){
